@@ -30,11 +30,11 @@ const styles = StyleSheet.create({
   
     },
     NavigationBarTitle: {
-      fontSize: 20 ,
+      fontSize: 24 ,
       textAlign: 'center',
       color : '#ffffff',
       fontFamily : 'Avenir Next', 
-      fontWeight:'800',
+      fontWeight:'700',
       
     }, 
 
